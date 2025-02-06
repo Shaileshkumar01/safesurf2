@@ -1,0 +1,8 @@
+{
+  "extensionName": { "message": "Secure Student Browsing" },
+  "extensionDescription": { "message": "Protects students from phishing, malware, and weak passwords." },
+  "phishingWarning": { "message": "Warning: This website may be a phishing attempt." },
+  "httpWarning": { "message": "Warning: This website is not secure (HTTP)." },
+  "weakPassword": { "message": "Your password is too weak!" },
+  "checkPageButton": { "message": "Check Current Page" }
+}
